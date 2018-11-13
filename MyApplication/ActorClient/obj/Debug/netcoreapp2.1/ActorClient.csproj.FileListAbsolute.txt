@@ -1,0 +1,14 @@
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.deps.json
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.runtimeconfig.json
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.runtimeconfig.dev.json
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.dll
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csproj.CoreCompileInputs.cache
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.AssemblyInfoInputs.cache
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.AssemblyInfo.cs
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\ActorClient.pdb
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\HelloWord.Interfaces.dll
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\bin\Debug\netcoreapp2.1\HelloWord.Interfaces.pdb
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csprojAssemblyReference.cache
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.csproj.CopyComplete
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.dll
+D:\C#pro\servicefab_demo1\MyApplication\ActorClient\obj\Debug\netcoreapp2.1\ActorClient.pdb

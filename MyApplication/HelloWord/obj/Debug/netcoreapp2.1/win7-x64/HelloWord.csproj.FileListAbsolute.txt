@@ -1,0 +1,17 @@
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.dll
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.csprojAssemblyReference.cache
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.csproj.CoreCompileInputs.cache
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.AssemblyInfoInputs.cache
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.AssemblyInfo.cs
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\bin\Debug\netcoreapp2.1\win7-x64\hostpolicy.dll
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\bin\Debug\netcoreapp2.1\win7-x64\hostfxr.dll
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.exe
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.deps.json
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.runtimeconfig.json
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.runtimeconfig.dev.json
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.dll
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.pdb
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.pdb
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.csproj.CopyComplete
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.dll
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.pdb

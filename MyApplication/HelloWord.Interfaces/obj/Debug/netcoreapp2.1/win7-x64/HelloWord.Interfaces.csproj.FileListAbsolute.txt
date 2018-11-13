@@ -1,0 +1,9 @@
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.deps.json
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.dll
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord.Interfaces\bin\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.pdb
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.csprojAssemblyReference.cache
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.csproj.CoreCompileInputs.cache
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.AssemblyInfoInputs.cache
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.AssemblyInfo.cs
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.dll
+D:\C#pro\servicefab_demo1\MyApplication\HelloWord.Interfaces\obj\Debug\netcoreapp2.1\win7-x64\HelloWord.Interfaces.pdb
